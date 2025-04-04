@@ -30,7 +30,7 @@ A FastAPI-based application that allows developers to track vulnerabilities in t
 
 ```bash
 # Clone the repo
-git clone https://github.com/raminorak/vuln-tracker.git
+git clone https://github.com/raminok/vuln-tracker.git
 cd vuln-tracker
 
 # Create a virtual environment
